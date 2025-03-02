@@ -1,0 +1,9 @@
+target/
+*.class
+*.log
+
+node_modules/
+android/build/
+ios/build/
+
+.DS_Store
